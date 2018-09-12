@@ -1,10 +1,12 @@
-# 2. Implement as Unix shell scripts
+# 3. Remove Unix Scripts
 
 Date: 2018-09-13
 
 ## Status
 
-Superceded by [3. Remove Unix Scripts](0003-remove-unix-scripts.md)
+Accepted
+
+Supercedes [2. Implement as Unix shell scripts](0002-implement-as-unix-shell-scripts.md)
 
 ## Context
 
